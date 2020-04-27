@@ -8,32 +8,52 @@ body{
 }
 
 #contenido{
-    width: 900px;
-    height: 700px;
+    width: 1000px;
+    height: 800px;
     background-color: aqua;
     border: 1px solid white;
 }
 
-#header{
-    width: 900px;
-    height: 150px;
+#logo{
+    width: 200px;
+    height: 200px;
     background-color: royalblue;
 }
 
+#titulo{
+    width: 800px;
+    height: 200px;
+}
+#header{
+    width: 1000px;
+    height: 100px;
+}
+
 #menu{
-    width: 900px;
+    width: 1000px;
     height: 50px;
     background-color: red;
 }
 
 #centro{
-    width: 900px;
-    height: 450px;
-    background-color: green;
+    width: 1000px;
+    height: 500px;
+}
+
+#aside{
+    width:300px;
+    height: 500px;
+    background-color: chartreuse;
+}
+
+#article{
+    width: 700px;
+    height: 500px;
+    background-color: blueviolet;
 }
 
 #footer{
-    width: 900px;
+    width: 1000px;
     height: 50px;
     background-color: yellow;
 }
